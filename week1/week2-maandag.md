@@ -9,26 +9,26 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Moodboard afgemaakt en geüpload.
-> - Persona afgemaakt en geüpload.
+> - Pictogrammen gemaakt en onderzocht.
+> - Aan stap na wireframe gewerkt.
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**  
-> - Hoe een çava persona maken.
-> - Publiekelijk spreken (al maakt het niet uit, dit leer ik altijd bij publiekelijk spreken)
+> - Communicatie.
+> - Problemen oplossen die niet op het internet staan.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel mij tevree. Gedaan wat moest gebeuren.
+Tevree.
 
 
 > **Algmeen gevoel:**  
 > - :)
-> -rgb(44, 226, 153)
+> -rgb(246, 255, 0)
 
 
 ---

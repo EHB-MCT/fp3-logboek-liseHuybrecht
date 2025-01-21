@@ -9,26 +9,28 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Moodboard afgemaakt en geüpload.
-> - Persona afgemaakt en geüpload.
+> - Vragen in informatieslide veranderd.
+> - Het aanpassen van de XD na de feedback van de usertesting.
+> - Herverbinden van het prototype.
+> - Het consequent maken van het design.
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**  
-> - Hoe een çava persona maken.
-> - Publiekelijk spreken (al maakt het niet uit, dit leer ik altijd bij publiekelijk spreken)
+> - Het toepassen van feedback. Niet nieuw, wel verbeterd.
+> - Aan iemand anders zijn werk gekomen om het te verbeteren en consequent te maken.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel mij tevree. Gedaan wat moest gebeuren.
+Goed, maar ik heb ook het gevoel dat we ons tegen vrijdag zullen moeten reppen.
 
 
 > **Algmeen gevoel:**  
 > - :)
-> -rgb(44, 226, 153)
+> -rgb(91, 253, 55)
 
 
 ---

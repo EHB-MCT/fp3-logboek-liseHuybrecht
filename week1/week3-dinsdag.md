@@ -9,7 +9,7 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Moodboard afgemaakt en geüpload.
+> - 
 > - Persona afgemaakt en geüpload.
 
 ---

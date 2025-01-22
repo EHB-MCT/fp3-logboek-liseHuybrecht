@@ -9,7 +9,7 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Overzicht locaties gecodeerd.
+> - Overzicht locaties gecodeerd. (Confident, I did this last FP aswel. Proceeds to struggle for 1,5 hours)
 > - Favicon toegevoegd.
 > - Pijlen en smooth scrolling toegevoegd. (verrassend makkelijk)
 

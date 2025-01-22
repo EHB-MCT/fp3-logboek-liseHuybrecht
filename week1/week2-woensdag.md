@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[29/01/2025]`  
+**Datum:** `[22/01/2025]`  
 **Studentnaam:** `Li se Huybrecht`  
 **Groepsnaam:** `MEELS`
 
@@ -9,26 +9,27 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Moodboard afgemaakt en geüpload.
-> - Persona afgemaakt en geüpload.
+> - Overzicht locaties gecodeerd.
+> - Favicon toegevoegd.
+> - Pijlen en smooth scrolling toegevoegd. (verrassend makkelijk)
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**  
-> - Hoe een çava persona maken.
-> - Publiekelijk spreken (al maakt het niet uit, dit leer ik altijd bij publiekelijk spreken)
+> - Anchor link kunnen toevoegen.
+> - COMMUNICATIE!!! Ik heb gecommuniceerd. Ik voel mij als Bambi. De communicatie was helder.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel mij tevree. Gedaan wat moest gebeuren.
+Ik voel mij meer dan tevree. Ik voel mij voldaan.
 
 
 > **Algmeen gevoel:**  
 > - :)
-> -rgb(44, 226, 153)
+> -rgb(9, 255, 0)
 
 
 ---

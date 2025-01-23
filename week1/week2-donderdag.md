@@ -9,26 +9,27 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Moodboard afgemaakt en geüpload.
-> - Persona afgemaakt en geüpload.
+> - Locaties collapsible gemaakt.
+> - Locaties responsive gemaakt.
+> - Legende zonder werkende knoppen gemaakt.
+> - Legende toegevoegd aan kaart.
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**  
-> - Hoe een çava persona maken.
-> - Publiekelijk spreken (al maakt het niet uit, dit leer ik altijd bij publiekelijk spreken)
+> - Collapsible maken.
+> - Heb de niet collapsible zelf een beetje gevonden. Wel met hulp van het internet maar ook wel zelf.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel mij tevree. Gedaan wat moest gebeuren.
-
+Ik voelde mij goed en nuttig in het begin maar dat is nadat ik mijn taken had afgewerkt zeer stijl naar beneden gegaan.
 
 > **Algmeen gevoel:**  
-> - :)
-> -rgb(44, 226, 153)
+> - :|
+> -rgb(139, 149, 145)
 
 
 ---

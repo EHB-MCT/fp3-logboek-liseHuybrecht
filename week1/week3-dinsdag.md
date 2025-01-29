@@ -8,29 +8,31 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-> **Activiteiten:**  
-> - 
-> - Persona afgemaakt en geüpload.
+> **Activiteiten:**
+>
+> - Locaties aan correcte locatie op de kaart toegevoegd.
+> - Tours responsive maken.
+> - Slide out responsive maken.
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-> **Nieuwe skills:**  
-> - Hoe een çava persona maken.
-> - Publiekelijk spreken (al maakt het niet uit, dit leer ik altijd bij publiekelijk spreken)
+> **Nieuwe skills:**
+>
+> - Herbekijk altijd de referencie.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel mij tevree. Gedaan wat moest gebeuren.
+Tevree
 
-
-> **Algmeen gevoel:**  
+> **Algmeen gevoel:**
+>
 > - :)
-> -rgb(44, 226, 153)
-
+>   -rgb(44, 226, 211)
 
 ---
 
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
